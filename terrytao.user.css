@@ -1,0 +1,10 @@
+@-moz-document domain("terrytao.wordpress.com") {
+.entry-content p {
+    font-size: 1.4em;
+}
+
+.entry-title {
+    color: #a52a2a;
+    font-size: 1.7em;
+}
+}
