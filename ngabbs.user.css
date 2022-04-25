@@ -1,0 +1,77 @@
+@-moz-document url-prefix("https://ngabbs.com/thread.php"), url-prefix("https://bbs.nga.cn/thread.php") {
+#topicrows .topicrow .c2 > a {
+    font-size: 35px;
+}
+
+#topicrows .topicrow .c2 > span {
+    font-size: 35px;
+}
+
+#topicrows .topicrow .c2 .posterInfoLine {
+    font-size: 20px;
+}
+
+#sub_forums div[name="fbk"] {
+    height: 70px;
+}
+
+#sub_forums div[name="fbk"] .a .b {
+    font-size: 35px;
+}
+
+#sub_forums div[name="fbk"] .a .b p {
+    font-size: 20px;
+    margin-top: 4px;
+}
+
+#sub_forums div[name="fbk"] .a .b p input {
+    height: 20px;
+}
+}
+
+@-moz-document url-prefix("https://ngabbs.com/read.php"), url-prefix("https://bbs.nga.cn/read.php") {
+#postsubject0 {
+    font-size: 38px;
+    line-height: 50px !important;
+}
+
+#m_posts_c .postcontent {
+    font-size: 35px;
+}
+
+#m_posts_c .postcontent button {
+    font-size: 30px;
+}
+
+#m_posts_c .postcontent .quote {
+    font-size: 30px;
+}
+
+#m_posts_c h4.silver.subtitle {
+    font-size: 30px;
+}
+
+#m_posts_c span[id^="postattach"] button {
+    font-size: 30px;
+}
+
+#m_posts_c span[id^="posterinfo"] {
+    font-size: 20px;
+}
+
+#m_posts_c span[id^="postdate"] {
+    font-size: 20px;
+}
+
+#m_posts_c span[id^="alertc"] {
+    font-size: 30px;
+}
+
+#hightlight_for_0 .posterinfo {
+    font-size: 20px;
+}
+
+#hightlight_for_0 span[id^="postcomment__"] {
+    font-size: 30px;
+}
+}
