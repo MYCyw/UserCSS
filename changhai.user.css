@@ -1,0 +1,5 @@
+@-moz-document domain("www.changhai.org") {
+.article-container > p {
+    font-size: 50px;
+}
+}
