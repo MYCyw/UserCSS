@@ -1,0 +1,20 @@
+@-moz-document domain("stackexchange.com") {
+#question .-summary .-details h2 {
+    font-size:20px;
+}
+#question .s-prose {
+    font-size:18px;
+}
+.answer-body .s-prose p {
+    font-size: 18px;
+}
+.-votes {
+    width:30px !important;
+}
+.mini-counts {
+    text-align:center !important;
+}
+.d-inline-block {
+    margin-left:3px !important;
+}
+}
