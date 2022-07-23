@@ -36,7 +36,7 @@
 }
 
 #m_posts_c .postcontent {
-    font-size: 35px;
+    font-size: 26px;
 }
 
 #m_posts_c .postcontent button {
@@ -44,11 +44,15 @@
 }
 
 #m_posts_c .postcontent .quote {
-    font-size: 30px;
+    font-size: 24px;
+}
+
+#m_posts_c .postcontent .quote .block_txt {
+    font-size: 22px;
 }
 
 #m_posts_c h4.silver.subtitle {
-    font-size: 30px;
+    font-size: 20px;
 }
 
 #m_posts_c span[id^="postattach"] button {
@@ -64,7 +68,7 @@
 }
 
 #m_posts_c span[id^="alertc"] {
-    font-size: 30px;
+    font-size: 20px;
 }
 
 #hightlight_for_0 .posterinfo {
